@@ -53,7 +53,7 @@ GP Bayu - HF:[@gbyuvd](https://huggingface.co/gbyuvd) - e-mail:gbyuvd@proton.me
 ## Acknowledgments
 - Thanks to [othneildrew](https://github.com/othneildrew/Best-README-Template/) for the README template.
 - Thanks to HF:[@nreimers](huggingface.co/nreimers) for the base [MiniLM-L6-H384-uncased](https://huggingface.co/nreimers/MiniLM-L6-H384-uncased) model.
-
+- For more information on SELFIES, you could read this [blogpost](https://aspuru.substack.com/p/molecular-graph-representations-and) or check out [their github.](https://github.com/aspuru-guzik-group/selfies)
 
 <!-- Citations -->
 ## Citations
@@ -124,3 +124,4 @@ If you find this project useful in your research and wish to cite it, please use
 
 
 [aboutposter]: images/aboutposter.png
+
