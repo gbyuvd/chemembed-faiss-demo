@@ -2,7 +2,7 @@
 ## About The Project
 ChEmbed v0.1 - is a [sentence-transformers](https://www.SBERT.net) based on [MiniLM-L6-H384-uncased](https://huggingface.co/nreimers/MiniLM-L6-H384-uncased) fine-tuned on around 1 million pairs of valid natural compounds' SELFIES [(Krenn et al. 2020)](https://github.com/aspuru-guzik-group/selfies) taken from COCONUTDB [(Sorokina et al. 2021)](https://coconut.naturalproducts.net/). It maps compounds' *Self-Referencing Embedded Strings* (SELFIES) into a 768-dimensional dense vector space, potentially can be used for similarity search, classification, clustering, and more.
 
-Here, we will use the above model to embed ~407K natural product's molecular SELFIES representation ([COCONUTDB](https://coconut.naturalproducts.net/)) and use [Meta's FAISS](https://github.com/facebookresearch/faiss) for indexing and doing fast search for structurally similar compounds based on either one or multiple inputs.
+Here, we will use the above model to embed ~407K natural product molecular SELFIES representations (from [COCONUTDB](https://coconut.naturalproducts.net/)) and utilize [Meta's FAISS](https://github.com/facebookresearch/faiss) for indexing and doing fast searches for structurally similar compounds based on one or more inputs.
 
 [![How This WOrks][aboutposter]](https://example.com)
 
@@ -124,4 +124,5 @@ If you find this project useful in your research and wish to cite it, please use
 
 
 [aboutposter]: images/aboutposter.png
+
 
