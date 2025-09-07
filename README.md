@@ -4,6 +4,8 @@ ChEmbed v0.1 - is a [sentence-transformers](https://www.SBERT.net) based on [Min
 
 Here, we will use the above model to embed ~407K natural product's molecular SELFIES representation ([COCONUTDB](https://coconut.naturalproducts.net/)) and use [Meta's FAISS](https://github.com/facebookresearch/faiss) for indexing and doing fast search for structurally similar compounds based on either one or multiple inputs.
 
+[![How This WOrks][aboutposter]](https://example.com)
+
 ### Disclaimer: For Academic Purposes Only
 The information and model provided is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial or legal purposes. The author do not guarantee the accuracy, completeness, or reliability of the information.
 
@@ -118,3 +120,5 @@ If you find this project useful in your research and wish to cite it, please use
       primaryClass={cs.LG}
 }
 ```
+
+[aboutposter]: images/aboutposter.png
