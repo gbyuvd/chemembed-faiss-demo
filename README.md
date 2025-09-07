@@ -11,7 +11,8 @@ The information and model provided is for academic purposes only. It is intended
 
 <!-- GETTING STARTED -->
 ## Getting Started
-See [Demo.ipynb](./Demo.ipynb) for tutorial on:
+Please clone/download this repo and extract the archives provided then,
+see [Demo.ipynb](./Demo.ipynb) for tutorial on:
 - Part I: Importing and Loading Model
 - Part II: Preparing the Dataset and its FAISS-Index (You can skip Part II for direct use)
 - Part III: Querying One Molecule as Input
@@ -51,7 +52,7 @@ GP Bayu - HF:[@gbyuvd](https://huggingface.co/gbyuvd) - e-mail:gbyuvd@proton.me
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 - Thanks to [othneildrew](https://github.com/othneildrew/Best-README-Template/) for the README template.
-- Thanks to HF:[nreimers](huggingface.co/nreimers) for the base [MiniLM-L6-H384-uncased](https://huggingface.co/nreimers/MiniLM-L6-H384-uncased) model.
+- Thanks to HF:[@nreimers](huggingface.co/nreimers) for the base [MiniLM-L6-H384-uncased](https://huggingface.co/nreimers/MiniLM-L6-H384-uncased) model.
 
 
 <!-- Citations -->
@@ -120,5 +121,6 @@ If you find this project useful in your research and wish to cite it, please use
       primaryClass={cs.LG}
 }
 ```
+
 
 [aboutposter]: images/aboutposter.png
