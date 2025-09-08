@@ -11,8 +11,8 @@ The information and model provided is for academic purposes only. It is intended
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Please clone/download this repo and extract the archives provided then,
-see [Demo.ipynb](./Demo.ipynb) for tutorial on:
+**Please clone/download this repo and (1) extract the archives provided in `./db_raw` if you want to prepare all locally or (2) download the pre-embedded FAISS-Index [here](https://drive.proton.me/urls/EQVKZGP3V4#Nsk9PUY6cfch),
+after that, please see [Demo.ipynb](./Demo.ipynb) for tutorial on:**
 - Part I: Importing and Loading Model
 - Part II: Preparing the Dataset and its FAISS-Index (You can skip Part II for direct use)
 - Part III: Querying One Molecule as Input
@@ -124,5 +124,6 @@ If you find this project useful in your research and wish to cite it, please use
 
 
 [aboutposter]: images/aboutposter.png
+
 
 
